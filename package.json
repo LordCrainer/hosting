@@ -1,0 +1,16 @@
+{
+  "name": "hosting",
+  "version": "1.0.0",
+  "description": "PAgina de Reseller hosting",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/54yno7n89p",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.18.0",
+    "date-fns": "1.29.0",
+    "vue": "2.5.13",
+    "vue-router": "3.0.1",
+    "vuetify": "1.2.3",
+    "vuetify-daterange-picker": "^2.2.0"
+  }
+}
